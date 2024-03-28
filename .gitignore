@@ -5,3 +5,4 @@ composer.lock
 style.css.map
 screenshot.png
 .DS_Store
+.gitignore
